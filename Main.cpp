@@ -1,3 +1,6 @@
+// Main.cpp
+// Author: Roberto Ramirez 
+
 #include <iostream>
 #include <stdlib.h>
 #include "NodeDLL.h"
