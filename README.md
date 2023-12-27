@@ -4,7 +4,7 @@ In this project, my task was to create a command-line interface movie database i
 **Usage:** 
 
 Functionality includes adding, searching, and removing categories/movies. Upon launching the program, users are greeted with a set of options they can perform by inputting numbers 1-8 into the command line. Any other input will close the program. 
-The data is initialized with _Action_, _Children_, and _Comedy_ categories with one movie in each. The list of options are:
+The database is initialized with _Action_, _Children_, and _Comedy_ categories with one movie in each. The list of options are:
 
 1) Add a new category
 2) Add a new movie to an existing category
