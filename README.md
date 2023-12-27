@@ -1,5 +1,5 @@
-# Movie-Database-Project
-In this project, my task was to create a command-line interface movie database in C++ using circular and doubly linked lists. 
+# Movie-Menu-Project
+In this project, my task was to create a command-line interface movie menu in C++ using circular and doubly linked lists. 
 
 **Usage:** 
 
